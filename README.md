@@ -30,7 +30,7 @@ Este projeto consiste em uma aplicação web para gerenciar churrascos, onde os 
 ## Instalação e Execução:
 
 1. Clone este repositório: `git clone https://github.com/LucasDev9645/Projeto_Churrasco_ReactII_Ada.git`
-2. Navegue até o diretório do projeto: `cd Projeto_Churrasco_ReactII_Ada-main`
+2. Navegue até o diretório do projeto: `cd Projeto_Churrasco_ReactII_Ada`
 3. Instale as dependências: `npm install`
 4. Execute o projeto: `npm start`
 
